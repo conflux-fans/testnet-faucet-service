@@ -1,4 +1,5 @@
-# Backend API for ConfluxScan
+# Backend API Testnet faucet
+
 An HttpServer provides API for Conflux Faucet.
 
 ## Local Development
